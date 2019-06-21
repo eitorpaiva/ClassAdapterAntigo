@@ -7,6 +7,7 @@ Atacador(Interface)
 RoboInimigo(Classe)
 TanqueInimigo(Classe)
 RoboInimigoAdapter(Adapter)
+Teste (Classe Principal)
 
 O robô não possui piloto, pode andar para frente e usa suas próprias mãos para atacar o inimigo.
 O tanque possui piloto, pode ir para frente e usa arma de fogo para atacar o inimigo.
